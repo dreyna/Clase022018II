@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="tv_titulo">Desarrollo Móvil</string>
+    <string name="btn_ingresar">INGRESAR</string>
+    <string name="edt_user">Usuario...</string>
+    <string name="edt_pass">Password...</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_editar">Editar</string>
+</resources>
